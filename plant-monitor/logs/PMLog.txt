@@ -1,0 +1,910 @@
+
+-------------------------------------
+04/26/2018 08:16:30 PM - Plant Monitor Started
+-------------------------------------
+04/26/2018 08:16:57 PM - Plant Monitor Started
+04/26/2018 08:16:57 PM - Plant Monitor: Reading temperature
+-------------------------------------
+04/26/2018 08:17:20 PM - Plant Monitor Started
+04/26/2018 08:17:20 PM - Plant Monitor: Reading temperature
+-------------------------------------
+04/26/2018 08:17:40 PM - Plant Monitor Started
+04/26/2018 08:17:40 PM - Plant Monitor: Reading temperature
+-------------------------------------
+04/26/2018 08:33:16 PM - Plant Monitor Started
+04/26/2018 08:33:16 PM - Plant Monitor: Reading temperature
+-------------------------------------
+04/26/2018 08:34:43 PM - Plant Monitor Started
+04/26/2018 08:34:43 PM - Plant Monitor: Reading temperature
+-------------------------------------
+04/26/2018 08:38:06 PM - Plant Monitor Started
+04/26/2018 08:38:06 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:38:06 PM
+-------------------------------------
+04/26/2018 08:39:36 PM - Plant Monitor Started
+04/26/2018 08:39:36 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:39:36 PM
+04/26/2018 08:39:36 PM - PMCamera: Taking picture
+-------------------------------------
+04/26/2018 08:40:05 PM - Plant Monitor Started
+04/26/2018 08:40:05 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:40:05 PM
+04/26/2018 08:40:05 PM - PMCamera: Taking picture
+-------------------------------------
+04/26/2018 08:40:37 PM - Plant Monitor Started
+04/26/2018 08:40:37 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:40:37 PM
+04/26/2018 08:40:37 PM - PMCamera: Taking picture
+-------------------------------------
+04/26/2018 08:41:13 PM - Plant Monitor Started
+04/26/2018 08:41:13 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:41:13 PM
+-------------------------------------
+04/26/2018 08:41:13 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 08:43:16 PM - Plant Monitor Started
+04/26/2018 08:43:16 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:43:16 PM
+-------------------------------------
+04/26/2018 08:43:16 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 08:43:32 PM - Plant Monitor Started
+04/26/2018 08:43:32 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:43:32 PM
+-------------------------------------
+04/26/2018 08:43:32 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 08:45:59 PM - Plant Monitor Started
+04/26/2018 08:45:59 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:45:59 PM
+-------------------------------------
+04/26/2018 08:45:59 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 08:47:15 PM - Plant Monitor Started
+04/26/2018 08:47:15 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0.0  04/26/2018 08:47:15 PM
+-------------------------------------
+04/26/2018 08:47:15 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 08:49:15 PM - Plant Monitor Started
+04/26/2018 08:49:15 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0  04/26/2018 08:49:15 PM
+-------------------------------------
+04/26/2018 08:49:15 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 08:50:04 PM - Plant Monitor Started
+04/26/2018 08:50:04 PM - Plant Monitor: Reading temperature
+-------------------------------------
+04/26/2018 08:51:01 PM - Plant Monitor Started
+04/26/2018 08:51:01 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 667.0  04/26/2018 08:51:01 PM
+-------------------------------------
+04/26/2018 08:51:01 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 09:08:22 PM - Plant Monitor Started
+04/26/2018 09:08:22 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  04/26/2018 09:08:23 PM
+-------------------------------------
+04/26/2018 09:08:23 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 09:10:01 PM - Plant Monitor Started
+04/26/2018 09:10:01 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 821.0  04/26/2018 09:10:01 PM
+-------------------------------------
+04/26/2018 09:10:01 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 11:43:49 PM - Plant Monitor Started
+04/26/2018 11:43:49 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 784.0  04/26/2018 11:43:49 PM
+-------------------------------------
+04/26/2018 11:43:49 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 11:44:07 PM - Plant Monitor Started
+04/26/2018 11:44:07 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 783.0  04/26/2018 11:44:08 PM
+-------------------------------------
+04/26/2018 11:44:08 PM - Plant Monitor Completed
+-------------------------------------
+04/26/2018 11:19:55 PM - Plant Monitor Started
+04/26/2018 11:19:55 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 831.0  04/26/2018 11:19:55 PM
+-------------------------------------
+04/26/2018 11:19:55 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 12:53:01 AM - Plant Monitor Started
+05/01/2018 12:53:01 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 658.0  05/01/2018 12:53:01 AM
+-------------------------------------
+05/01/2018 12:53:01 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:03:02 AM - Plant Monitor Started
+05/01/2018 01:03:02 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 658.0  05/01/2018 01:03:02 AM
+-------------------------------------
+05/01/2018 01:03:02 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:36:56 AM - Plant Monitor Started
+05/01/2018 01:36:56 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 646.0  05/01/2018 01:36:57 AM
+-------------------------------------
+05/01/2018 01:36:57 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:37:48 AM - Plant Monitor Started
+05/01/2018 01:37:48 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 642.0  05/01/2018 01:37:48 AM
+-------------------------------------
+05/01/2018 01:37:48 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:47:40 AM - Plant Monitor Started
+05/01/2018 01:47:40 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 640.0  05/01/2018 01:47:40 AM
+-------------------------------------
+05/01/2018 01:47:40 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:57:41 AM - Plant Monitor Started
+05/01/2018 01:57:41 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 637.0  05/01/2018 01:57:41 AM
+-------------------------------------
+05/01/2018 01:57:41 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 02:07:41 AM - Plant Monitor Started
+05/01/2018 02:07:41 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 637.0  05/01/2018 02:07:41 AM
+-------------------------------------
+05/01/2018 02:07:41 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 02:17:41 AM - Plant Monitor Started
+05/01/2018 02:17:41 AM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 633.0  05/01/2018 02:17:41 AM
+-------------------------------------
+05/01/2018 02:17:41 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 02:27:41 AM - Plant Monitor Started
+05/01/2018 02:27:41 AM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/01/2018 02:27:41 AM
+-------------------------------------
+05/01/2018 02:27:41 AM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:41:34 PM - Plant Monitor Started
+05/01/2018 01:41:34 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 573.0  05/01/2018 01:41:34 PM
+-------------------------------------
+05/01/2018 01:41:34 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:49:27 PM - Plant Monitor Started
+05/01/2018 01:49:27 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 633.0  05/01/2018 01:49:27 PM
+-------------------------------------
+05/01/2018 01:49:27 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 01:59:27 PM - Plant Monitor Started
+05/01/2018 01:59:27 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 642.0  05/01/2018 01:59:27 PM
+-------------------------------------
+05/01/2018 01:59:27 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 02:09:27 PM - Plant Monitor Started
+05/01/2018 02:09:27 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 647.0  05/01/2018 02:09:27 PM
+-------------------------------------
+05/01/2018 02:09:27 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 02:19:27 PM - Plant Monitor Started
+05/01/2018 02:19:27 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 646.0  05/01/2018 02:19:27 PM
+-------------------------------------
+05/01/2018 02:19:27 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 02:29:28 PM - Plant Monitor Started
+05/01/2018 02:29:28 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 640.0  05/01/2018 02:29:28 PM
+-------------------------------------
+05/01/2018 02:29:28 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 02:39:28 PM - Plant Monitor Started
+05/01/2018 02:39:29 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 645.0  05/01/2018 02:39:29 PM
+-------------------------------------
+05/01/2018 02:39:29 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 03:40:35 PM - Plant Monitor Started
+05/01/2018 03:40:35 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 732.0  05/01/2018 03:40:35 PM
+-------------------------------------
+05/01/2018 03:40:35 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 03:50:35 PM - Plant Monitor Started
+05/01/2018 03:50:35 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 917.0  05/01/2018 03:50:36 PM
+-------------------------------------
+05/01/2018 03:50:36 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 04:00:37 PM - Plant Monitor Started
+05/01/2018 04:00:37 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 938.0  05/01/2018 04:00:46 PM
+-------------------------------------
+05/01/2018 04:00:46 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 04:13:39 PM - Plant Monitor Started
+05/01/2018 04:13:39 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 726.0  05/01/2018 04:13:39 PM
+-------------------------------------
+05/01/2018 04:13:39 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 04:23:39 PM - Plant Monitor Started
+05/01/2018 04:23:39 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 716.0  05/01/2018 04:23:39 PM
+-------------------------------------
+05/01/2018 04:23:39 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 04:33:39 PM - Plant Monitor Started
+05/01/2018 04:33:39 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 687.0  05/01/2018 04:33:39 PM
+-------------------------------------
+05/01/2018 04:33:39 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 04:35:09 PM - Plant Monitor Started
+05/01/2018 04:35:09 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/01/2018 04:35:10 PM
+-------------------------------------
+05/01/2018 04:35:10 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 04:45:10 PM - Plant Monitor Started
+05/01/2018 04:45:10 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 653.0  05/01/2018 04:45:10 PM
+-------------------------------------
+05/01/2018 04:45:10 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 04:55:11 PM - Plant Monitor Started
+05/01/2018 04:55:11 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 631.0  05/01/2018 04:55:12 PM
+-------------------------------------
+05/01/2018 04:55:12 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 05:05:12 PM - Plant Monitor Started
+05/01/2018 05:05:12 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 610.0  05/01/2018 05:05:13 PM
+-------------------------------------
+05/01/2018 05:05:13 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 05:15:13 PM - Plant Monitor Started
+05/01/2018 05:15:13 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 596.0  05/01/2018 05:15:13 PM
+-------------------------------------
+05/01/2018 05:15:13 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 05:25:14 PM - Plant Monitor Started
+05/01/2018 05:25:14 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 586.0  05/01/2018 05:25:15 PM
+-------------------------------------
+05/01/2018 05:25:15 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 05:35:15 PM - Plant Monitor Started
+05/01/2018 05:35:15 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 582.0  05/01/2018 05:35:15 PM
+-------------------------------------
+05/01/2018 05:35:15 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 05:45:15 PM - Plant Monitor Started
+05/01/2018 05:45:15 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 577.0  05/01/2018 05:45:16 PM
+-------------------------------------
+05/01/2018 05:45:16 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 05:55:16 PM - Plant Monitor Started
+05/01/2018 05:55:16 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 574.0  05/01/2018 05:55:16 PM
+-------------------------------------
+05/01/2018 05:55:16 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:05:16 PM - Plant Monitor Started
+05/01/2018 06:05:16 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 572.0  05/01/2018 06:05:16 PM
+-------------------------------------
+05/01/2018 06:05:16 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:15:16 PM - Plant Monitor Started
+05/01/2018 06:15:16 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 569.0  05/01/2018 06:15:16 PM
+-------------------------------------
+05/01/2018 06:15:16 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:25:16 PM - Plant Monitor Started
+05/01/2018 06:25:16 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 565.0  05/01/2018 06:25:17 PM
+-------------------------------------
+05/01/2018 06:25:17 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:35:17 PM - Plant Monitor Started
+05/01/2018 06:35:17 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 564.0  05/01/2018 06:35:17 PM
+-------------------------------------
+05/01/2018 06:35:17 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:37:20 PM - Plant Monitor Started
+05/01/2018 06:37:20 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 563.0  05/01/2018 06:37:20 PM
+-------------------------------------
+05/01/2018 06:37:20 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:40:51 PM - Plant Monitor Started
+05/01/2018 06:40:51 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 564.0  05/01/2018 06:40:51 PM
+-------------------------------------
+05/01/2018 06:40:52 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:46:46 PM - Plant Monitor Started
+05/01/2018 06:46:46 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 562.0  05/01/2018 06:46:46 PM
+-------------------------------------
+05/01/2018 06:46:48 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:49:10 PM - Plant Monitor Started
+05/01/2018 06:49:10 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 562.0  05/01/2018 06:49:10 PM
+-------------------------------------
+05/01/2018 06:49:12 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 06:59:06 PM - Plant Monitor Started
+05/01/2018 06:59:06 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 560.0  05/01/2018 06:59:07 PM
+-------------------------------------
+05/01/2018 06:59:09 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 07:09:09 PM - Plant Monitor Started
+05/01/2018 07:09:09 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 560.0  05/01/2018 07:09:09 PM
+-------------------------------------
+05/01/2018 07:09:11 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 07:19:11 PM - Plant Monitor Started
+05/01/2018 07:19:11 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 576.0  05/01/2018 07:19:11 PM
+-------------------------------------
+05/01/2018 07:19:13 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 07:29:13 PM - Plant Monitor Started
+05/01/2018 07:29:13 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 564.0  05/01/2018 07:29:13 PM
+-------------------------------------
+05/01/2018 07:29:20 PM - Plant Monitor Completed
+-------------------------------------
+05/01/2018 07:50:46 PM - Plant Monitor Started
+05/01/2018 07:50:46 PM - PMTemp: Reading temperature
+05/01/2018 07:51:10 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 619.0  05/01/2018 07:51:11 PM
+05/01/2018 07:51:12 PM - PMCamera: Taking picture
+-------------------------------------
+05/01/2018 07:52:49 PM - Plant Monitor Started
+05/01/2018 07:52:49 PM - PMTemp: Reading temperature
+-------------------------------------
+05/01/2018 08:03:10 PM - Plant Monitor Started
+05/01/2018 08:03:10 PM - PMTemp: Reading temperature
+05/01/2018 08:03:17 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 618.0  05/01/2018 08:03:17 PM
+05/01/2018 08:03:18 PM - PMCamera: Taking picture
+-------------------------------------
+05/01/2018 08:04:39 PM - Plant Monitor Started
+05/01/2018 08:04:39 PM - PMTemp: Reading temperature
+05/01/2018 08:04:43 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 617.0  05/01/2018 08:04:43 PM
+05/01/2018 08:04:45 PM - PMCamera: Taking picture
+-------------------------------------
+05/01/2018 08:08:04 PM - Plant Monitor Started
+05/01/2018 08:08:04 PM - PMTemp: Reading temperature
+05/01/2018 08:08:06 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 616.0  05/01/2018 08:08:06 PM
+05/01/2018 08:08:08 PM - PMCamera: Taking picture
+-------------------------------------
+05/01/2018 08:09:47 PM - Plant Monitor Started
+05/01/2018 08:09:47 PM - PMTemp: Reading temperature
+05/01/2018 08:09:49 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 615.0  05/01/2018 08:09:49 PM
+05/01/2018 08:09:51 PM - PMCamera: Taking picture
+-------------------------------------
+05/01/2018 08:09:54 PM - Plant Monitor Completed
+05/01/2018 08:09:54 PM - PMCamera: Picture taken
+-------------------------------------
+05/01/2018 08:20:25 PM - Plant Monitor Started
+05/01/2018 08:20:25 PM - PMTemp: Reading temperature
+05/01/2018 08:20:32 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 611.0  05/01/2018 08:20:32 PM
+05/01/2018 08:20:33 PM - PMCamera: Taking picture
+-------------------------------------
+05/01/2018 08:20:36 PM - Plant Monitor Completed
+05/01/2018 08:20:36 PM - PMCamera: Picture taken
+-------------------------------------
+05/01/2018 08:27:06 PM - Plant Monitor Started
+05/01/2018 08:27:06 PM - PMTemp: Reading temperature
+05/01/2018 08:27:10 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 609.0  05/01/2018 08:27:10 PM
+05/01/2018 08:27:12 PM - PMCamera: Taking picture
+-------------------------------------
+05/01/2018 08:27:15 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 12:22:30 PM - Plant Monitor Started
+05/02/2018 12:22:30 PM - PMTemp: Reading temperature
+05/02/2018 12:22:45 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 12:22:45 PM
+05/02/2018 12:22:46 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 12:22:49 PM - Plant Monitor Completed
+05/02/2018 12:22:49 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 12:44:58 PM - Plant Monitor Started
+05/02/2018 12:44:58 PM - PMTemp: Reading temperature
+05/02/2018 12:45:01 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 12:45:01 PM
+05/02/2018 12:45:02 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 12:45:04 PM - Plant Monitor Completed
+05/02/2018 12:45:04 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 12:48:43 PM - Plant Monitor Started
+05/02/2018 12:48:43 PM - PMTemp: Reading temperature
+05/02/2018 12:48:45 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 12:48:45 PM
+05/02/2018 12:48:46 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 12:48:48 PM - Plant Monitor Completed
+05/02/2018 12:48:48 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 12:49:10 PM - Plant Monitor Started
+05/02/2018 12:49:10 PM - PMTemp: Reading temperature
+05/02/2018 12:49:22 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 12:49:22 PM
+05/02/2018 12:49:23 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 12:49:26 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 12:59:26 PM - Plant Monitor Started
+05/02/2018 12:59:26 PM - PMTemp: Reading temperature
+05/02/2018 12:59:26 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 12:59:26 PM
+05/02/2018 12:49:26 PM - PMCamera: Picture taken
+05/02/2018 12:59:28 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 12:59:30 PM - Plant Monitor Completed
+05/02/2018 12:59:30 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:03:25 PM - Plant Monitor Started
+05/02/2018 01:03:25 PM - PMTemp: Reading temperature
+-------------------------------------
+05/02/2018 01:06:07 PM - Plant Monitor Started
+05/02/2018 01:06:07 PM - PMTemp: Reading temperature
+-------------------------------------
+05/02/2018 01:07:13 PM - Plant Monitor Started
+05/02/2018 01:07:13 PM - PMTemp: Reading temperature
+05/02/2018 01:07:15 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 01:07:15 PM
+05/02/2018 01:07:16 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:07:19 PM - Plant Monitor Completed
+05/02/2018 01:07:19 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:09:00 PM - Plant Monitor Started
+05/02/2018 01:09:00 PM - PMTemp: Reading temperature
+05/02/2018 01:09:05 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 01:09:05 PM
+05/02/2018 01:09:06 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:09:08 PM - Plant Monitor Completed
+05/02/2018 01:09:08 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:12:17 PM - Plant Monitor Started
+05/02/2018 01:12:17 PM - PMTemp: Reading temperature
+05/02/2018 01:12:24 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 01:12:24 PM
+05/02/2018 01:12:26 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:12:28 PM - Plant Monitor Completed
+05/02/2018 01:12:28 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:13:41 PM - Plant Monitor Started
+05/02/2018 01:13:41 PM - PMTemp: Reading temperature
+05/02/2018 01:13:47 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 01:13:47 PM
+05/02/2018 01:13:49 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:13:52 PM - Plant Monitor Completed
+05/02/2018 01:13:52 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:14:25 PM - Plant Monitor Started
+05/02/2018 01:14:25 PM - PMTemp: Reading temperature
+05/02/2018 01:14:29 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 01:14:29 PM
+05/02/2018 01:14:30 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:14:33 PM - Plant Monitor Completed
+05/02/2018 01:14:33 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:14:51 PM - Plant Monitor Started
+05/02/2018 01:14:51 PM - PMTemp: Reading temperature
+05/02/2018 01:14:52 PM - Plant Monitor: Reading temperature
+DRY soil Warning: The soil moisture content is currently: 1023  05/02/2018 01:14:52 PM
+05/02/2018 01:14:54 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:14:57 PM - Plant Monitor Completed
+05/02/2018 01:14:57 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:15:28 PM - Plant Monitor Started
+05/02/2018 01:15:28 PM - PMTemp: Reading temperature
+05/02/2018 01:15:30 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 782.0  05/02/2018 01:15:30 PM
+05/02/2018 01:15:31 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:15:34 PM - Plant Monitor Completed
+05/02/2018 01:15:34 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:15:56 PM - Plant Monitor Started
+05/02/2018 01:15:56 PM - PMTemp: Reading temperature
+05/02/2018 01:16:00 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 807.0  05/02/2018 01:16:00 PM
+05/02/2018 01:16:02 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:16:05 PM - Plant Monitor Completed
+05/02/2018 01:16:05 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:16:25 PM - Plant Monitor Started
+05/02/2018 01:16:25 PM - PMTemp: Reading temperature
+05/02/2018 01:16:27 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 820.0  05/02/2018 01:16:27 PM
+05/02/2018 01:16:28 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:16:32 PM - Plant Monitor Completed
+05/02/2018 01:16:32 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:26:57 PM - Plant Monitor Started
+05/02/2018 01:26:57 PM - PMTemp: Reading temperature
+05/02/2018 01:27:07 PM - Plant Monitor: Reading temperature
+-------------------------------------
+05/02/2018 01:29:14 PM - Plant Monitor Started
+05/02/2018 01:29:14 PM - PMTemp: Reading temperature
+05/02/2018 01:29:16 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 517 Temperature is: 68.0Humidity is: 52.0  05/02/2018 01:29:16 PM
+05/02/2018 01:29:18 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:29:21 PM - Plant Monitor Completed
+05/02/2018 01:29:21 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:30:53 PM - Plant Monitor Started
+05/02/2018 01:30:53 PM - PMTemp: Reading temperature
+05/02/2018 01:30:55 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 556 Temperature is: 68.0 Humidity is: 53.0  05/02/2018 01:30:55 PM
+05/02/2018 01:30:56 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:30:59 PM - Plant Monitor Completed
+05/02/2018 01:30:59 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:31:17 PM - Plant Monitor Started
+05/02/2018 01:31:17 PM - PMTemp: Reading temperature
+05/02/2018 01:31:24 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 563 Temperature is: 68.0 Humidity is: 52.0  05/02/2018 01:31:24 PM
+05/02/2018 01:31:26 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:31:28 PM - Plant Monitor Completed
+05/02/2018 01:31:28 PM - PMCamera: Picture taken
+-------------------------------------
+05/02/2018 01:31:54 PM - Plant Monitor Started
+05/02/2018 01:31:54 PM - PMTemp: Reading temperature
+05/02/2018 01:31:55 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 563 Temperature is: 68.0 Humidity is: 52.0  05/02/2018 01:31:55 PM
+05/02/2018 01:31:57 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:32:00 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 01:42:00 PM - Plant Monitor Started
+05/02/2018 01:42:00 PM - PMTemp: Reading temperature
+05/02/2018 01:42:00 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 572 Temperature is: 68.0 Humidity is: 52.0  05/02/2018 01:42:00 PM
+05/02/2018 01:32:00 PM - PMCamera: Picture taken
+05/02/2018 01:42:02 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:42:04 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 01:52:04 PM - Plant Monitor Started
+05/02/2018 01:52:04 PM - PMTemp: Reading temperature
+05/02/2018 01:52:07 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 582 Temperature is: 68.0 Humidity is: 55.0  05/02/2018 01:52:07 PM
+05/02/2018 01:42:04 PM - PMCamera: Picture taken
+05/02/2018 01:52:09 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 01:52:12 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 02:02:12 PM - Plant Monitor Started
+05/02/2018 02:02:12 PM - PMTemp: Reading temperature
+05/02/2018 02:02:12 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 587 Temperature is: 68.0 Humidity is: 56.0  05/02/2018 02:02:12 PM
+05/02/2018 01:52:12 PM - PMCamera: Picture taken
+05/02/2018 02:02:14 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 02:02:16 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 02:12:17 PM - Plant Monitor Started
+05/02/2018 02:12:17 PM - PMTemp: Reading temperature
+05/02/2018 02:12:17 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 592 Temperature is: 68.0 Humidity is: 53.0  05/02/2018 02:12:17 PM
+05/02/2018 02:02:16 PM - PMCamera: Picture taken
+05/02/2018 02:12:18 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 02:12:22 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 02:22:22 PM - Plant Monitor Started
+05/02/2018 02:22:22 PM - PMTemp: Reading temperature
+05/02/2018 02:22:25 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 659 Temperature is: 68.0 Humidity is: 52.0  05/02/2018 02:22:25 PM
+05/02/2018 02:12:22 PM - PMCamera: Picture taken
+05/02/2018 02:22:26 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 02:22:29 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 02:32:29 PM - Plant Monitor Started
+05/02/2018 02:32:29 PM - PMTemp: Reading temperature
+05/02/2018 02:32:30 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 662 Temperature is: 68.0 Humidity is: 53.0  05/02/2018 02:32:30 PM
+05/02/2018 02:22:29 PM - PMCamera: Picture taken
+05/02/2018 02:32:31 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 02:32:34 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 02:42:34 PM - Plant Monitor Started
+05/02/2018 02:42:34 PM - PMTemp: Reading temperature
+05/02/2018 02:42:35 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 659 Temperature is: 68.0 Humidity is: 53.0  05/02/2018 02:42:35 PM
+05/02/2018 02:32:34 PM - PMCamera: Picture taken
+05/02/2018 02:42:36 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 02:42:39 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 02:52:39 PM - Plant Monitor Started
+05/02/2018 02:52:39 PM - PMTemp: Reading temperature
+05/02/2018 02:52:40 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 656 Temperature is: 66.2 Humidity is: 52.0  05/02/2018 02:52:40 PM
+05/02/2018 02:42:39 PM - PMCamera: Picture taken
+05/02/2018 02:52:41 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 02:52:44 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 03:02:44 PM - Plant Monitor Started
+05/02/2018 03:02:44 PM - PMTemp: Reading temperature
+05/02/2018 03:02:45 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 650 Temperature is: 68.0 Humidity is: 53.0  05/02/2018 03:02:45 PM
+05/02/2018 02:52:44 PM - PMCamera: Picture taken
+05/02/2018 03:02:46 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 03:02:49 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 03:12:49 PM - Plant Monitor Started
+05/02/2018 03:12:49 PM - PMTemp: Reading temperature
+05/02/2018 03:12:49 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 668 Temperature is: 68.0 Humidity is: 51.0  05/02/2018 03:12:49 PM
+05/02/2018 03:02:49 PM - PMCamera: Picture taken
+05/02/2018 03:12:54 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 03:12:57 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 03:22:57 PM - Plant Monitor Started
+05/02/2018 03:22:57 PM - PMTemp: Reading temperature
+05/02/2018 03:23:00 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 669 Temperature is: 68.0 Humidity is: 52.0  05/02/2018 03:23:00 PM
+05/02/2018 03:12:57 PM - PMCamera: Picture taken
+05/02/2018 03:23:05 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 03:23:07 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 03:33:07 PM - Plant Monitor Started
+05/02/2018 03:33:07 PM - PMTemp: Reading temperature
+05/02/2018 03:33:08 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 660 Temperature is: 68.0 Humidity is: 54.0  05/02/2018 03:33:08 PM
+05/02/2018 03:23:07 PM - PMCamera: Picture taken
+05/02/2018 03:33:09 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 03:33:12 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:26:17 PM - Plant Monitor Started
+05/02/2018 04:26:17 PM - PMTemp: Reading temperature
+Temp HIGH warning: The temprature is currently 80.6 degrees!  05/02/2018 04:26:19 PM
+05/02/2018 04:26:21 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 660 Temperature is: 80.6 Humidity is: 58.0  05/02/2018 04:26:21 PM
+05/02/2018 04:26:22 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:26:25 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:36:25 PM - Plant Monitor Started
+05/02/2018 04:36:25 PM - PMTemp: Reading temperature
+05/02/2018 04:36:26 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 668 Temperature is: 77.0 Humidity is: 63.0  05/02/2018 04:36:26 PM
+05/02/2018 04:26:25 PM - PMCamera: Picture taken
+05/02/2018 04:36:28 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:36:31 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:39:39 PM - Plant Monitor Started
+05/02/2018 04:39:39 PM - PMTemp: Reading temperature
+05/02/2018 04:39:40 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 668 Temperature is: 77.0 Humidity is: 70.0  05/02/2018 04:39:40 PM
+05/02/2018 04:39:42 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:39:45 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:40:12 PM - Plant Monitor Started
+05/02/2018 04:40:12 PM - PMTemp: Reading temperature
+05/02/2018 04:40:14 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 662 Temperature is: 78.8 Humidity is: 72.0  05/02/2018 04:40:14 PM
+05/02/2018 04:40:16 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:40:19 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:41:58 PM - Plant Monitor Started
+05/02/2018 04:41:58 PM - PMTemp: Reading temperature
+05/02/2018 04:42:00 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 632 Temperature is: 78.8 Humidity is: 73.0  05/02/2018 04:42:00 PM
+05/02/2018 04:42:02 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:42:05 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:42:54 PM - Plant Monitor Started
+05/02/2018 04:42:54 PM - PMTemp: Reading temperature
+05/02/2018 04:42:56 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 641 Temperature is: 78.8 Humidity is: 70.0  05/02/2018 04:42:56 PM
+05/02/2018 04:42:57 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:43:00 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:45:16 PM - Plant Monitor Started
+05/02/2018 04:45:16 PM - PMTemp: Reading temperature
+05/02/2018 04:45:22 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 627 Temperature is: 78.8 Humidity is: 64.0  05/02/2018 04:45:22 PM
+05/02/2018 04:45:24 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:45:27 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:46:17 PM - Plant Monitor Started
+05/02/2018 04:46:17 PM - PMTemp: Reading temperature
+05/02/2018 04:46:23 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 626 Temperature is: 78.8 Humidity is: 62.0  05/02/2018 04:46:23 PM
+05/02/2018 04:46:25 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:46:28 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:47:47 PM - Plant Monitor Started
+05/02/2018 04:47:47 PM - PMTemp: Reading temperature
+05/02/2018 04:47:52 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 647 Temperature is: 78.8 Humidity is: 65.0  05/02/2018 04:47:52 PM
+05/02/2018 04:47:53 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:47:56 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 04:57:56 PM - Plant Monitor Started
+05/02/2018 04:57:56 PM - PMTemp: Reading temperature
+05/02/2018 04:58:09 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 638 Temperature is: 78.8 Humidity is: 63.0  05/02/2018 04:58:09 PM
+05/02/2018 04:47:56 PM - PMCamera: Picture taken
+05/02/2018 04:58:11 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 04:58:14 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 05:08:16 PM - Plant Monitor Started
+05/02/2018 05:08:16 PM - PMTemp: Reading temperature
+05/02/2018 05:08:20 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 632 Temperature is: 78.8 Humidity is: 59.0  05/02/2018 05:08:20 PM
+05/02/2018 05:08:22 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 05:08:25 PM - Plant Monitor Completed
+-------------------------------------
+05/02/2018 05:09:58 PM - Plant Monitor Started
+05/02/2018 05:09:58 PM - PMTemp: Reading temperature
+05/02/2018 05:10:02 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 549 Temperature is: 78.8 Humidity is: 67.0  05/02/2018 05:10:02 PM
+05/02/2018 05:10:04 PM - PMCamera: Taking picture
+-------------------------------------
+05/02/2018 05:10:07 PM - Plant Monitor Completed
+-------------------------------------
+05/04/2018 07:27:38 PM - Plant Monitor Started
+05/04/2018 07:27:38 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:27:45 PM
+05/04/2018 07:27:46 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0 Temperature is: 62.6 Humidity is: 64.0  05/04/2018 07:27:46 PM
+05/04/2018 07:27:48 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:27:50 PM - Plant Monitor Completed
+05/04/2018 07:27:50 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:29:05 PM - Plant Monitor Started
+05/04/2018 07:29:05 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:29:07 PM
+05/04/2018 07:29:08 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 100 Temperature is: 62.6 Humidity is: 64.0  05/04/2018 07:29:08 PM
+05/04/2018 07:29:09 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:29:12 PM - Plant Monitor Completed
+05/04/2018 07:29:12 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:30:33 PM - Plant Monitor Started
+05/04/2018 07:30:33 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:30:35 PM
+05/04/2018 07:30:36 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0 Temperature is: 62.6 Humidity is: 61.0  05/04/2018 07:30:36 PM
+05/04/2018 07:30:38 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:30:40 PM - Plant Monitor Completed
+05/04/2018 07:30:40 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:31:21 PM - Plant Monitor Started
+05/04/2018 07:31:21 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:31:25 PM
+05/04/2018 07:31:27 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0 Temperature is: 62.6 Humidity is: 60.0  05/04/2018 07:31:27 PM
+05/04/2018 07:31:28 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:31:31 PM - Plant Monitor Completed
+05/04/2018 07:31:31 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:33:09 PM - Plant Monitor Started
+05/04/2018 07:33:09 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:33:13 PM
+05/04/2018 07:33:15 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 621 Temperature is: 62.6 Humidity is: 61.0  05/04/2018 07:33:15 PM
+05/04/2018 07:33:16 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:33:19 PM - Plant Monitor Completed
+05/04/2018 07:33:19 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:34:44 PM - Plant Monitor Started
+05/04/2018 07:34:44 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:34:46 PM
+05/04/2018 07:34:47 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0 Temperature is: 62.6 Humidity is: 64.0  05/04/2018 07:34:47 PM
+05/04/2018 07:34:48 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:34:51 PM - Plant Monitor Completed
+05/04/2018 07:34:51 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:35:53 PM - Plant Monitor Started
+05/04/2018 07:35:53 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:35:55 PM
+05/04/2018 07:35:56 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0 Temperature is: 62.6 Humidity is: 61.0  05/04/2018 07:35:56 PM
+05/04/2018 07:35:57 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:36:00 PM - Plant Monitor Completed
+05/04/2018 07:36:00 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:38:18 PM - Plant Monitor Started
+05/04/2018 07:38:18 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 33.8 degrees! 05/04/2018 07:38:23 PM
+05/04/2018 07:38:24 PM - Plant Monitor: Reading temperature
+Oversaturated Soil warning: The soil moisture content is currently: 0 Temperature is: 33.8 Humidity is: 61.0  05/04/2018 07:38:24 PM
+05/04/2018 07:38:26 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:38:29 PM - Plant Monitor Completed
+05/04/2018 07:38:29 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:39:38 PM - Plant Monitor Started
+05/04/2018 07:39:38 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:39:40 PM
+05/04/2018 07:39:41 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 57.5757575758 Temperature is: 62.6 Humidity is: 63.0  05/04/2018 07:39:41 PM
+05/04/2018 07:39:43 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:39:45 PM - Plant Monitor Completed
+05/04/2018 07:39:45 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:40:26 PM - Plant Monitor Started
+05/04/2018 07:40:26 PM - PMTemp: Reading temperature
+Temp LOW warning: The temprature is currently 62.6 degrees! 05/04/2018 07:40:30 PM
+05/04/2018 07:40:31 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 56.4027370479 Temperature is: 62.6 Humidity is: 61.0  05/04/2018 07:40:31 PM
+05/04/2018 07:40:33 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:40:36 PM - Plant Monitor Completed
+05/04/2018 07:40:36 PM - PMCamera: Picture taken
+-------------------------------------
+05/04/2018 07:42:42 PM - Plant Monitor Started
+05/04/2018 07:42:42 PM - PMTemp: Reading temperature
+Temp LOW warning: The temperature is currently 62.6 degrees! 05/04/2018 07:42:46 PM
+05/04/2018 07:42:49 PM - Plant Monitor: Reading temperature
+Soil OK, The soil moisture content is currently: 55.1319648094 Temperature is: 62.6 Humidity is: 61.0  05/04/2018 07:42:49 PM
+05/04/2018 07:42:50 PM - PMCamera: Taking picture
+-------------------------------------
+05/04/2018 07:42:53 PM - Plant Monitor Completed
