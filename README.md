@@ -1,1 +1,2 @@
 # Plant-Monitor
+This is a project I developed using a Raspberry Pi, thermometer, moisture reader, camera, and a plant. The goal of this project was to notify the user when the soil or the temperature of the room was outside of the desired range for the plant. A notification was sent to the user with the plant's vitals and a picture of the plant. Additionally, there was a timer set up to periodically take a reading of the plant's vitals.
