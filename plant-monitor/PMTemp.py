@@ -25,17 +25,7 @@ class PMTemp:
         if humidity is not None and temperature is not None:
             temp = "{0:0.1f}".format(temperature)  #random.uniform(68.0, 93.0)  #91
             humid = "{0:0.1f}".format(humidity)
-##            db = MySQLdb.connect("localhost", "pi", "raspberry", "plantmonitor")
-##            curs = db.cursor()
-##            try:
-##                curDate = time.strftime('%Y-%m-%d %H:%M:%S')
-##                sql = "INSERT INTO PMMoisture VALUES(NULL, '%s', NULL ,'%s', '%s')" % (curDate, temp, humid)
-##                #print(sql)
-##		curs.execute(sql)
-##                db.commit()
-##            except:
-##                print("PMTemp: DB comit error, transaction being rolled back")
-##                db.rollback()
+
             #print(str(temperature) + " >= " + str(self.tmpHigh))
         if temperature >= self.tmpHigh:
             print(time.strftime("%m/%d/%Y %I:%M:%S %p") + " - PMTemp: WARNING HIGH Temp Alert! ")
